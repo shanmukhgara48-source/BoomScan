@@ -139,7 +139,8 @@ Everything past the stub is fair game. A few directions:
 
 ## Submission deadline
 
-Whatever your organizers told you. Submit the one .py file via the channel
-they specified. Do not submit this testing kit.
+Whatever your organizers told you. Submit the one .py file via the official
+[Google Form](https://drive.google.com/file/d/1noVG_VyGAGF2qNE6kYSnzWupmZ9SvK9D/view?usp=sharing).
+Do not submit this testing kit.
 
 Good luck.

@@ -16,7 +16,7 @@ Autonomous Earth-observation scheduling on a small satellite. Teams write a Pyth
    pip install -r requirements.txt
    python test_my_submission.py my_submission.py
    ```
-5. **Submit** → see [`SUBMITTING.md`](./SUBMITTING.md)
+5. **Submit** → upload your single `.py` file via the official [Google Form](https://drive.google.com/file/d/1noVG_VyGAGF2qNE6kYSnzWupmZ9SvK9D/view?usp=sharing)
 
 You will ultimately deliver:
 
@@ -49,9 +49,6 @@ Presentations are judged first; top 3 submissions are then verified against the 
 │   ├── configs/
 │   ├── example_submissions/
 │   └── tests/
-├── submissions/                   # where teams' .py files live (see SUBMITTING.md)
-├── SUBMITTING.md                  # submission process
-├── CONTRIBUTING.md                # for fixes / clarifications to the problem
 ├── LICENSE                        # MIT
 └── README.md                      # you are here
 ```
@@ -63,8 +60,7 @@ Presentations are judged first; top 3 submissions are then verified against the 
 - [Problem statement (markdown)](./docs/PROBLEM_STATEMENT.md)
 - [Problem statement (PDF)](./docs/PROBLEM_STATEMENT.pdf)
 - [Teams' testing kit](./teams_kit/)
-- [Submission instructions](./SUBMITTING.md)
-- [File an issue](../../issues) — clarifications, bugs in the testing kit, edge cases
+- [Submission Google Form](https://drive.google.com/file/d/1noVG_VyGAGF2qNE6kYSnzWupmZ9SvK9D/view?usp=sharing)
 - [Organizer harness](./organizer_harness/) — the Basilisk-backed grader (optional read)
 
 ## About the harness
